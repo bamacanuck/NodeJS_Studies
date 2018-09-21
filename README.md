@@ -1,4 +1,4 @@
-# The Node.JS Master Course
+# The Node.JS Master Course by 'Pirple'
 
 > Code samples for all sections and chapters.
 
